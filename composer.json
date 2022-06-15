@@ -1,0 +1,6 @@
+{
+    "require": {
+        "flipbox/lumen-generator": "^9.1",
+        "anik/form-request": "^4.5"
+    }
+}
